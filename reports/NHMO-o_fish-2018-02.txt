@@ -1,0 +1,77 @@
+Report for Institution Code NHMO, Resource o_fish
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 121
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Canada ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-20 ; Times: 5
+	Date: 2018-02-17 ; Times: 3
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-18 ; Times: 4
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-05 ; Times: 20
+	Date: 2018-02-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hepatus atramentatus" ; Times: 1
+	Query: "Prionurus laticlavius" ; Times: 1
+	Query: "Poeppig" ; Times: 1
+	Query: "Callicanthus lituratus" ; Times: 2
+	Query: "Naso unicornis" ; Times: 1
+	Query: "Hepatus guntheri" ; Times: 1
+	Query: "Hepatus elongatus" ; Times: 3
+	Query: "barbus plebejus" ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 2
+	Query: "Acanthurus unicornis" ; Times: 1
+	Query: "synodus indicus" ; Times: 1
+	Query: "Hepatus sandvicensis" ; Times: 1
+	Query: "Hepatus triostegus" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 9
+	Query: "Acanthurus achilles" ; Times: 1
+	Query: "Acanthurus caeruleus" ; Times: 1
+	Query: "Acanthurus hepatus" ; Times: 2
+	Query: "Hepatus leucopareius" ; Times: 2
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "B-1357" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1892 download events in this period)
+Total number of records downloaded: 18
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Plagioscion squamosissimus" ; Times: 1
+	Query: "Fish Tennessee" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 2
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+
+
+End of report.
