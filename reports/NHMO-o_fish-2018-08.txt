@@ -1,0 +1,57 @@
+Report for Institution Code NHMO, Resource o_fish
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 41
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Denmark ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 11
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-28 ; Times: 1
+	Date: 2018-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Balistes fuscus" ; Times: 1
+	Query: "Melichthys radula" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 3
+	Query: "Balistes undulatus" ; Times: 1
+	Query: "Sufflamen verres" ; Times: 1
+	Query: "Balistes niger" ; Times: 1
+	Query: "Balistapus aculeatus" ; Times: 1
+	Query: "Balistes maculatus" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "Xanthichthys ringens" ; Times: 2
+	Query: "Balistes capistratus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1416 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Anisotremus virginicus" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+
+
+End of report.
