@@ -1,0 +1,67 @@
+Report for Institution Code NHMO, Resource o_fish
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 117
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-21 ; Times: 20
+	Date: 2018-06-20 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Hepatus atramentatus" ; Times: 1
+	Query: "Prionurus laticlavius" ; Times: 2
+	Query: "Callicanthus lituratus" ; Times: 2
+	Query: "Naso unicornis" ; Times: 2
+	Query: "Hepatus guntheri" ; Times: 1
+	Query: "Hepatus elongatus" ; Times: 3
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "Acanthurus unicornis" ; Times: 1
+	Query: "Hepatus sandvicensis" ; Times: 1
+	Query: "Hepatus triostegus" ; Times: 1
+	Query: "Prochilodus lineatus" ; Times: 1
+	Query: "specificepithet:cataphractus" ; Times: 2
+	Query: "Acanthurus hepatus" ; Times: 3
+	Query: "Hepatus leucopareius" ; Times: 3
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "Acanthurus caeruleus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1169 download events in this period)
+Total number of records downloaded: 8
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pterois volitans" ; Times: 1
+	Query: "Scomberomorus sierra" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "Prochilodus lineatus" ; Times: 1
+
+
+End of report.
