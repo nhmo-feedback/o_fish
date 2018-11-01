@@ -1,0 +1,112 @@
+Report for Institution Code NHMO, Resource o_fish
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 709
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 72
+	Country: Canada ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Portugal ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 5
+	Date: 2018-10-05 ; Times: 11
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-23 ; Times: 11
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-15 ; Times: 44
+
+List of queries that retrieved data from the resource: 
+	Query: "Callionymus lyra mappable:1" ; Times: 1
+	Query: "Syngnathus griseolineatus" ; Times: 1
+	Query: "Entelurus aequoreus" ; Times: 1
+	Query: "Syngnathus typhle typhle mappable:1" ; Times: 1
+	Query: "Ostracion bicaudalis" ; Times: 1
+	Query: "Synchiropus phaeton" ; Times: 1
+	Query: "Squalus mitsukurii" ; Times: 1
+	Query: "Ostracion punctatus" ; Times: 1
+	Query: "Hippocampus abdominalis" ; Times: 1
+	Query: "Ostracion meleagris meleagris" ; Times: 1
+	Query: "Lactophrys tricornis" ; Times: 2
+	Query: "Syngnathus typhle" ; Times: 1
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "Syngnathus poecilolaemus" ; Times: 1
+	Query: "Lactophrys triqueter" ; Times: 1
+	Query: "Hippocampus ramulosus" ; Times: 2
+	Query: "Hippocampus breviceps" ; Times: 1
+	Query: "Lactophrys trigonus" ; Times: 1
+	Query: "Callionymus risso" ; Times: 1
+	Query: "Sufflamen verres" ; Times: 1
+	Query: "Balistes niger" ; Times: 1
+	Query: "Callionymus maculatus mappable:1" ; Times: 2
+	Query: "Syngnathus acus" ; Times: 1
+	Query: "Callionymus reticulatus mappable:1" ; Times: 1
+	Query: "Callionymus himantophorus" ; Times: 1
+	Query: "Nerophis lumbriciformis mappable:1" ; Times: 1
+	Query: "Syngnathus rostellatus" ; Times: 1
+	Query: "Hippocampus angustus" ; Times: 4
+	Query: "Balistes fuscus" ; Times: 1
+	Query: "Syngnathus schlegeli" ; Times: 1
+	Query: "Ostracion rhinorhynchus" ; Times: 1
+	Query: "Callionymus reticulatus" ; Times: 1
+	Query: "Callionymus lyra" ; Times: 1
+	Query: "Hippocampus guttulatus" ; Times: 2
+	Query: "Anarhichas lupus" ; Times: 1
+	Query: "Tetrosomus concatenatus" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "Lactoria cornuta" ; Times: 1
+	Query: "Balistes undulatus" ; Times: 1
+	Query: "Melichthys radula" ; Times: 1
+	Query: "Syngnathus pelagicus" ; Times: 3
+	Query: "Balistes maculatus" ; Times: 1
+	Query: "Pomatoschistus minutus" ; Times: 2
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "Ostracion cubicus" ; Times: 1
+	Query: "Syngnathus typhle typhle" ; Times: 1
+	Query: "Syngnathus abaster" ; Times: 1
+	Query: "Nerophis ophidion mappable:1" ; Times: 1
+	Query: "Hippocampus comes" ; Times: 1
+	Query: "Balistapus aculeatus" ; Times: 1
+	Query: "Syngnathus rostellatus mappable:1" ; Times: 1
+	Query: "Spicara flexuosa" ; Times: 1
+	Query: "Ostracion meleagris" ; Times: 1
+	Query: "Syngnathus acus mappable:1" ; Times: 1
+	Query: "Entelurus aequoreus mappable:1" ; Times: 1
+	Query: "Solegnathus hardwickii" ; Times: 1
+	Query: "Callionymus maculatus" ; Times: 2
+	Query: "Balistes capistratus" ; Times: 1
+	Query: "Nerophis ophidion" ; Times: 1
+	Query: "Aulostoma coloratum" ; Times: 1
+	Query: "Syngnathus typhle mappable:1" ; Times: 1
+	Query: "Nerophis lumbriciformis" ; Times: 1
+	Query: "Xanthichthys ringens" ; Times: 2
+	Query: "Lactoria diaphana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1300 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:onitis genus:Tautoga" ; Times: 1
+	Query: "brachyistius frenatus" ; Times: 1
+	Query: "specificepithet:saltatrix genus:Pomatomus" ; Times: 1
+
+
+End of report.
