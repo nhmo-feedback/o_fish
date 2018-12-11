@@ -1,0 +1,143 @@
+Report for Institution Code NHMO, Resource o_fish
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 2029
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 67
+	Country: Unknown ; Times: 52
+	Country: Italy ; Times: 10
+	Country: Brazil ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-19 ; Times: 1
+	Date: 2018-11-23 ; Times: 10
+	Date: 2018-11-09 ; Times: 1
+	Date: 2018-11-13 ; Times: 2
+	Date: 2018-11-14 ; Times: 1
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-25 ; Times: 20
+	Date: 2018-11-27 ; Times: 7
+	Date: 2018-11-26 ; Times: 15
+	Date: 2018-11-20 ; Times: 2
+	Date: 2018-11-30 ; Times: 48
+	Date: 2018-11-28 ; Times: 24
+
+List of queries that retrieved data from the resource: 
+	Query: "Buglossidium luteum mappable:1" ; Times: 1
+	Query: "specificepithet:gairdneri genus:salmo mappable:1" ; Times: 3
+	Query: "specificepithet:gladius genus:xiphias mappable:1" ; Times: 2
+	Query: "Sardina pilchardus mappable:1" ; Times: 1
+	Query: "specificepithet:glesne genus:regalecus mappable:1" ; Times: 1
+	Query: "Aphanopus carbo mappable:1" ; Times: 1
+	Query: "Cetorhinus maximus mappable:1" ; Times: 1
+	Query: "Artediellus atlanticus mappable:1" ; Times: 1
+	Query: "Capros aper mappable:1" ; Times: 1
+	Query: "genidens" ; Times: 2
+	Query: "specificepithet:belone genus:belone mappable:1" ; Times: 4
+	Query: "Ctenolabrus rupestris mappable:1" ; Times: 1
+	Query: "specificepithet:trutta genus:salmo mappable:1" ; Times: 4
+	Query: "Benthodesmus simonyi mappable:1" ; Times: 1
+	Query: "Centrolophus niger mappable:1" ; Times: 1
+	Query: "Careproctus longipinnis mappable:1" ; Times: 1
+	Query: "Cottus gobio mappable:1" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 3
+	Query: "specificepithet:glauca genus:prionace mappable:1" ; Times: 1
+	Query: "specificepithet:vulpinus genus:alopias mappable:1" ; Times: 1
+	Query: "Buenia jeffreysii mappable:1" ; Times: 1
+	Query: "specificepithet:draco genus:trachinus mappable:1" ; Times: 1
+	Query: "Callionymus reticulatus mappable:1" ; Times: 1
+	Query: "Alopias vulpinus mappable:1" ; Times: 1
+	Query: "Argentina silus mappable:1" ; Times: 1
+	Query: "specificepithet:chromis genus:chromis" ; Times: 1
+	Query: "Callionymus maculatus mappable:1" ; Times: 1
+	Query: "Ammodytes marinus mappable:1" ; Times: 1
+	Query: "Dicentrarchus labrax mappable:1" ; Times: 1
+	Query: "specificepithet:pollachius genus:pollachius mappable:1" ; Times: 1
+	Query: "Alosa fallax mappable:1" ; Times: 1
+	Query: "Chimaera monstrosa mappable:1" ; Times: 1
+	Query: "Coregonus lavaretus mappable:1" ; Times: 1
+	Query: "Centrolabrus exoletus mappable:1" ; Times: 1
+	Query: "Cyclopterus lumpus mappable:1" ; Times: 1
+	Query: "Esox lucius mappable:1" ; Times: 1
+	Query: "specificepithet:galeus genus:galeorhinus mappable:1" ; Times: 1
+	Query: "Callionymus lyra mappable:1" ; Times: 1
+	Query: "specificepithet:dactylopterus genus:helicolenus mappable:1" ; Times: 1
+	Query: "Auxis rochei mappable:1" ; Times: 1
+	Query: "specificepithet:scombrus genus:scomber mappable:1" ; Times: 1
+	Query: "specificepithet:cantharus genus:spondyliosoma mappable:1" ; Times: 1
+	Query: "&#34;Trichopodus trichopterus&#34; OR &#34;Trichogaster trichopterus&#34;" ; Times: 2
+	Query: "Coregonus albula mappable:1" ; Times: 1
+	Query: "specificepithet:bogaraveo genus:pagellus mappable:1" ; Times: 1
+	Query: "Benthosema glaciale mappable:1" ; Times: 1
+	Query: "Brosme brosme mappable:1" ; Times: 1
+	Query: "Ammodytes tobianus mappable:1" ; Times: 1
+	Query: "Chirolophis ascanii mappable:1" ; Times: 1
+	Query: "Coryphaenoides rupestris mappable:1" ; Times: 1
+	Query: "Ciliata septentrionalis mappable:1" ; Times: 1
+	Query: "specificepithet:salar genus:salmo mappable:1" ; Times: 11
+	Query: "specificepithet:lepturus genus:trichiurus mappable:1" ; Times: 2
+	Query: "&#34;Trichopodus leerii&#34; OR &#34;Trichogaster leerii&#34;" ; Times: 1
+	Query: "Engraulis encrasicolus mappable:1" ; Times: 1
+	Query: "Careproctus reinhardti mappable:1" ; Times: 1
+	Query: "Dalatias licha mappable:1" ; Times: 1
+	Query: "Anarhichas minor mappable:1" ; Times: 1
+	Query: "Ciliata mustela mappable:1" ; Times: 1
+	Query: "specificepithet:lucius genus:esox mappable:1" ; Times: 7
+	Query: "Boreogadus saida mappable:1" ; Times: 1
+	Query: "Brama brama mappable:1" ; Times: 1
+	Query: "Entelurus aequoreus mappable:1" ; Times: 1
+	Query: "Arnoglossus laterna mappable:1" ; Times: 1
+	Query: "Hexanchus griseus mappable:1" ; Times: 13
+	Query: "Entelurus aequoreus" ; Times: 1
+	Query: "Anarhichas lupus mappable:1" ; Times: 1
+	Query: "Gadus morhua mappable:1" ; Times: 2
+	Query: "Eutrigla gurnardus mappable:1" ; Times: 1
+	Query: "Crystallogobius linearis mappable:1" ; Times: 1
+	Query: "Beryx decadactylus mappable:1" ; Times: 1
+	Query: "specificepithet:mola genus:mola mappable:1" ; Times: 1
+	Query: "Belone belone mappable:1" ; Times: 1
+	Query: "Acantholabrus palloni mappable:1" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "Cottunculus microps mappable:1" ; Times: 1
+	Query: "specificepithet:rochei genus:auxis mappable:1" ; Times: 2
+	Query: "Agonus cataphractus mappable:1" ; Times: 1
+	Query: "Diplecogaster bimaculata mappable:1" ; Times: 1
+	Query: "Lamna nasus" ; Times: 1
+	Query: "Chelon labrosus mappable:1" ; Times: 1
+	Query: "Gadiculus argenteus mappable:1" ; Times: 1
+	Query: "Aphia minuta mappable:1" ; Times: 1
+	Query: "specificepithet:carpio genus:cyprinus mappable:1" ; Times: 2
+	Query: "Boops boops mappable:1" ; Times: 1
+	Query: "Abramis brama mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1719 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-07 ; Times: 1
+	Date: 2018-11-19 ; Times: 1
+	Date: 2018-11-13 ; Times: 1
+	Date: 2018-11-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Batis" ; Times: 1
+	Query: "Sparisoma viride" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+
+
+End of report.
