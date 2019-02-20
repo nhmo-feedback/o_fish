@@ -1,0 +1,97 @@
+Report for Institution Code NHMO, Resource o_fish
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 121
+Number of records retrieved in searches: 1702
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 18
+	Country: France ; Times: 90
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 12
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-20 ; Times: 4
+	Date: 2019-01-23 ; Times: 22
+	Date: 2019-01-31 ; Times: 26
+	Date: 2019-01-25 ; Times: 4
+	Date: 2019-01-24 ; Times: 6
+	Date: 2019-01-21 ; Times: 2
+	Date: 2019-01-30 ; Times: 42
+
+List of queries that retrieved data from the resource: 
+	Query: "Squatina squatina mappable:1" ; Times: 1
+	Query: "Trigloporus lastoviza mappable:1" ; Times: 1
+	Query: "Pholis gunnellus mappable:1" ; Times: 2
+	Query: "Osmerus eperlanus mappable:1" ; Times: 2
+	Query: "Alopias vulpinus mappable:1" ; Times: 4
+	Query: "Salmo salar mappable:1" ; Times: 2
+	Query: "Hypsurus caryi" ; Times: 1
+	Query: "Nerophis ophidion mappable:1" ; Times: 2
+	Query: "Sardina pilchardus mappable:1" ; Times: 5
+	Query: "Chirolophis ascanii mappable:1" ; Times: 4
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 1
+	Query: "Cetorhinus maximus mappable:1" ; Times: 4
+	Query: "Ciliata septentrionalis mappable:1" ; Times: 4
+	Query: "genus:Pomatoschistus" ; Times: 2
+	Query: "Phycis phycis mappable:1" ; Times: 2
+	Query: "Trachinus draco mappable:1" ; Times: 1
+	Query: "Belone belone mappable:1" ; Times: 1
+	Query: "Acipenser sturio mappable:1" ; Times: 4
+	Query: "Myoxocephalus scorpius mappable:1" ; Times: 1
+	Query: "Trachinotus ovatus mappable:1" ; Times: 1
+	Query: "rhinobatos schlegelii" ; Times: 5
+	Query: "Lophius piscatorius mappable:1" ; Times: 1
+	Query: "Centrolophus niger mappable:1" ; Times: 1
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 3
+	Query: "Pomatoschistus microps mappable:1" ; Times: 2
+	Query: "Crystallogobius linearis mappable:1" ; Times: 4
+	Query: "Dalatias licha mappable:1" ; Times: 4
+	Query: "Agonus cataphractus mappable:1" ; Times: 4
+	Query: "Diplecogaster bimaculata mappable:1" ; Times: 4
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "mullus barbatus" ; Times: 2
+	Query: "Ciliata mustela mappable:1" ; Times: 4
+	Query: "Cynoglossus robustus" ; Times: 1
+	Query: "NMS" ; Times: 1
+	Query: "hypsypops rubicundus" ; Times: 1
+	Query: "Syngnathus rostellatus mappable:1" ; Times: 1
+	Query: "Pomatoschistus" ; Times: 1
+	Query: "Cyclopterus lumpus mappable:1" ; Times: 4
+	Query: "Sardinella brasiliensis" ; Times: 18
+	Query: "Lipophrys pholis mappable:1" ; Times: 2
+	Query: "Bathygobius lineatus" ; Times: 1
+	Query: "Solea solea mappable:1" ; Times: 3
+	Query: "Lamna nasus mappable:1" ; Times: 2
+	Query: "Pomatoschistus pictus mappable:1" ; Times: 2
+	Query: "Syngnathus typhle mappable:1" ; Times: 1
+	Query: "Gobiusculus flavescens mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 962 download events in this period)
+Total number of records downloaded: 121
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+
+
+End of report.
