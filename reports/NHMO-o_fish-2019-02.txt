@@ -1,0 +1,78 @@
+Report for Institution Code NHMO, Resource o_fish
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 530
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 29
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-01 ; Times: 22
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-07 ; Times: 4
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-28 ; Times: 2
+	Date: 2019-02-14 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Auxis rochei mappable:1" ; Times: 1
+	Query: "Osmerus eperlanus mappable:1" ; Times: 3
+	Query: "Alopias vulpinus mappable:1" ; Times: 2
+	Query: "Etmopterus spinax mappable:1" ; Times: 1
+	Query: "Nerophis ophidion mappable:1" ; Times: 1
+	Query: "Lycodonus flagellicauda mappable:1" ; Times: 1
+	Query: "Chirolophis ascanii mappable:1" ; Times: 1
+	Query: "Crystallogobius linearis mappable:1" ; Times: 1
+	Query: "Cetorhinus maximus mappable:1" ; Times: 1
+	Query: "Ciliata septentrionalis mappable:1" ; Times: 1
+	Query: "Opeatogenys gracilis" ; Times: 2
+	Query: "Gobius niger mappable:1" ; Times: 1
+	Query: "Bathyraja spinicauda mappable:1" ; Times: 1
+	Query: "Acipenser sturio mappable:1" ; Times: 2
+	Query: "Lamna nasus mappable:1" ; Times: 1
+	Query: "rhinobatos schlegelii" ; Times: 3
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 1
+	Query: "Dalatias licha mappable:1" ; Times: 1
+	Query: "Agonus cataphractus mappable:1" ; Times: 2
+	Query: "Diplecogaster bimaculata mappable:1" ; Times: 1
+	Query: "Cyclopterus lumpus mappable:1" ; Times: 1
+	Query: "Ciliata mustela mappable:1" ; Times: 1
+	Query: "Argentina sphyraena mappable:1" ; Times: 1
+	Query: "Lipophrys pholis mappable:1" ; Times: 1
+	Query: "Plectorhinchus mediterraneus" ; Times: 1
+	Query: "Russland" ; Times: 1
+	Query: "pachyderma" ; Times: 1
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "Gobiusculus flavescens mappable:1" ; Times: 1
+	Query: "Sprattus sprattus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1227 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "porcupine" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+
+
+End of report.
