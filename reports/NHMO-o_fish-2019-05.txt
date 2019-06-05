@@ -1,0 +1,134 @@
+Report for Institution Code NHMO, Resource o_fish
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 1037
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Italy ; Times: 7
+	Country: Portugal ; Times: 2
+	Country: France ; Times: 11
+	Country: United Kingdom ; Times: 14
+	Country: Greece ; Times: 9
+	Country: New Zealand ; Times: 52
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 8
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-21 ; Times: 8
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-23 ; Times: 7
+	Date: 2019-05-22 ; Times: 7
+	Date: 2019-05-03 ; Times: 3
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-06 ; Times: 59
+	Date: 2019-05-13 ; Times: 2
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-16 ; Times: 8
+	Date: 2019-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Scyliorhinus canicula" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 1
+	Query: "Gymnura afuerae" ; Times: 1
+	Query: "Carcharhinus galapagensis" ; Times: 1
+	Query: "Mustelus canis" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Squalus mitsukurii" ; Times: 1
+	Query: "Heterodontus francisci" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Raja rhina" ; Times: 1
+	Query: "Centroscymnus crepidater" ; Times: 1
+	Query: "Etmopterus princeps" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 3
+	Query: "Platyrhina sinensis" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 2
+	Query: "Pristiophorus japonicus" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "Rhinochimaera atlantica" ; Times: 1
+	Query: "Hippocampus breviceps" ; Times: 1
+	Query: "Chimaera monstrosa" ; Times: 1
+	Query: "Scyliorhinus stellaris" ; Times: 1
+	Query: "Rhinobatos schlegelii" ; Times: 1
+	Query: "Narcine timlei" ; Times: 1
+	Query: "&#34;Abramis brama&#34;" ; Times: 2
+	Query: "Centroscyllium fabricii" ; Times: 1
+	Query: "Chiloscyllium indicum" ; Times: 1
+	Query: "Chimaera phantasma" ; Times: 1
+	Query: "Deania calcea" ; Times: 1
+	Query: "Bathyraja spinicauda" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 1
+	Query: "Raja brachyura" ; Times: 1
+	Query: "Raja clavata" ; Times: 1
+	Query: "cetorhinus" ; Times: 3
+	Query: "Mustelus californicus" ; Times: 1
+	Query: "Myliobatis aquila" ; Times: 1
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "dalatias licha" ; Times: 1
+	Query: "Raja asterias" ; Times: 1
+	Query: "Raja stellulata" ; Times: 1
+	Query: "squalus acanthias year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 1
+	Query: "&#34;Alburnus alburnus&#34;" ; Times: 3
+	Query: "Raja montagui" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "Buenia" ; Times: 1
+	Query: "Aphanius fasciatus" ; Times: 1
+	Query: "Buenia jeffreysii" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 3
+	Query: "Mullus surmuletus mappable:1" ; Times: 2
+	Query: "Prionace glauca" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 1
+	Query: "Hypomesus transpacificus" ; Times: 2
+	Query: "Pagrus major" ; Times: 9
+	Query: "hvoslef" ; Times: 1
+	Query: "Xiphias gladius mappable:1" ; Times: 2
+	Query: "Torpedo marmorata" ; Times: 1
+	Query: "Mustelus asterias" ; Times: 1
+	Query: "Eucyclogobius newberryi" ; Times: 2
+	Query: "Abramis brama" ; Times: 9
+	Query: "Scyliorhinus retifer" ; Times: 1
+	Query: "Etmopterus spinax" ; Times: 1
+	Query: "Lamna nasus" ; Times: 1
+	Query: "Raja miraletus" ; Times: 1
+	Query: "Squatina oculata" ; Times: 1
+	Query: "Galeus murinus" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "Raja undulata" ; Times: 1
+	Query: "Nesiarchus nasutus mappable:1" ; Times: 1
+	Query: "Somniosus microcephalus" ; Times: 1
+	Query: "Salmo trutta" ; Times: 5
+	Query: "Dalatias licha" ; Times: 1
+	Query: "Auxis rochei rochei mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 940 download events in this period)
+Total number of records downloaded: 58
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Greece ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "squalus acanthias year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "&#34;Abramis brama&#34;" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 1
+	Query: "Pagrus major" ; Times: 1
+
+
+End of report.
