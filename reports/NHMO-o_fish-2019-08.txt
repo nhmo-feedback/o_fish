@@ -1,0 +1,60 @@
+Report for Institution Code NHMO, Resource o_fish
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 67
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: United Kingdom ; Times: 11
+	Country: France ; Times: 9
+	Country: Venezuela ; Times: 2
+	Country: Greece ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 16
+	Date: 2019-08-06 ; Times: 4
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Coelorhynchus specificepithet:coelorhynchus" ; Times: 1
+	Query: "Dalatias licha" ; Times: 1
+	Query: "Callichthys callichthys" ; Times: 1
+	Query: "Xiphias gladius mappable:1" ; Times: 9
+	Query: "Anguilla australis" ; Times: 1
+	Query: "Squalus mitsukurii" ; Times: 1
+	Query: "Synbranchus marmoratus" ; Times: 1
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "Loricaria cataphracta" ; Times: 1
+	Query: "Clarias fuscus" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 1
+	Query: "Gnathonemus" ; Times: 1
+	Query: "genus:Ulcina specificepithet:olrikii" ; Times: 1
+	Query: "Prochilodus lineatus" ; Times: 1
+	Query: "gasterosteus year &gt;= 1800 year &lt;= 1910" ; Times: 1
+	Query: "Pimelodus maculatus" ; Times: 1
+	Query: "Heteropneustes fossilis" ; Times: 1
+	Query: "Sorubim lima" ; Times: 1
+	Query: "Muraena helena" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1034 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
