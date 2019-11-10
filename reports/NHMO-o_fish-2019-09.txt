@@ -1,0 +1,63 @@
+Report for Institution Code NHMO, Resource o_fish
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 211
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 7
+	Country: United States ; Times: 2
+	Country: France ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Greece ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-10 ; Times: 5
+	Date: 2019-09-11 ; Times: 8
+	Date: 2019-09-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sebastes marinus mappable:1" ; Times: 1
+	Query: "Trigloporus lastoviza mappable:1" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 7
+	Query: "Spinachia spinachia mappable:1" ; Times: 1
+	Query: "Scomberesox saurus saurus mappable:1" ; Times: 1
+	Query: "Polyprion americanus" ; Times: 2
+	Query: "Coregonus lavaretus mappable:1" ; Times: 1
+	Query: "&#34;Microstomus kitt&#34;" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "cataphractus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1073 download events in this period)
+Total number of records downloaded: 12
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "family:(Geotriidae OR Mordaciidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 1
+	Query: "specificepithet:PULCHER genus:SEMICOSSYPHUS continent:AMERICA" ; Times: 1
+	Query: "specificepithet:DIPLOTAENIA genus:BODIANUS continent:AMERICA" ; Times: 1
+	Query: "rhinogobius" ; Times: 1
+	Query: "specificepithet:NICHOLSI genus:HALICHOERES continent:AMERICA" ; Times: 1
+	Query: "continent:Africa (Cypriniformes)" ; Times: 1
+	Query: "family:(Geotriidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 2
+
+
+End of report.
