@@ -1,0 +1,175 @@
+Report for Institution Code NHMO, Resource o_fish
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 714
+Number of records retrieved in searches: 12851
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 691
+	Country: United States ; Times: 8
+	Country: France ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-10 ; Times: 8
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 12
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-07 ; Times: 131
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-03 ; Times: 55
+	Date: 2020-04-21 ; Times: 130
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 367
+	Date: 2020-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Nibea albiflora" ; Times: 3
+	Query: "Salmo salar" ; Times: 5
+	Query: "Ethmalosa fimbriata" ; Times: 9
+	Query: "zosterisessor" ; Times: 1
+	Query: "Blepsias cirrhosus" ; Times: 3
+	Query: "Lampetra fluviatilis" ; Times: 2
+	Query: "Siganus argenteus" ; Times: 5
+	Query: "Esox lucius" ; Times: 10
+	Query: "Pachychilon pictum" ; Times: 12
+	Query: "Pimelodus maculatus" ; Times: 6
+	Query: "Stenodus leucichthys" ; Times: 5
+	Query: "Cynoscion regalis" ; Times: 3
+	Query: "Batrachocottus baicalensis" ; Times: 10
+	Query: "Tinca tinca" ; Times: 7
+	Query: "Cottus aleuticus" ; Times: 7
+	Query: "Myoxocephalus scorpius" ; Times: 8
+	Query: "Mullus surmuletus mappable:1" ; Times: 15
+	Query: "Alburnus alburnus" ; Times: 19
+	Query: "Pelecus cultratus" ; Times: 12
+	Query: "Hippoglossoides platessoides" ; Times: 5
+	Query: "Pungitius pungitius" ; Times: 14
+	Query: "dicentrarchus labrax" ; Times: 2
+	Query: "Limanda aspera" ; Times: 5
+	Query: "Takifugu porphyreus" ; Times: 5
+	Query: "vntype:specimen class:Actinopterygii institutioncode:NHMO basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Scardinius erythrophthalmus" ; Times: 19
+	Query: "Gobio gobio" ; Times: 7
+	Query: "Abramis brama" ; Times: 11
+	Query: "Takifugu oblongus" ; Times: 5
+	Query: "Nesiarchus nasutus" ; Times: 5
+	Query: "Lampetra planeri" ; Times: 2
+	Query: "Leuciscus leuciscus" ; Times: 14
+	Query: "Cottunculus thomsonii" ; Times: 5
+	Query: "Engraulis encrasicolus" ; Times: 4
+	Query: "Barbatula barbatula" ; Times: 8
+	Query: "Cheilopogon exsiliens" ; Times: 5
+	Query: "Centromochlus heckelii" ; Times: 4
+	Query: "Prochilodus lineatus" ; Times: 4
+	Query: "Isopsetta isolepis" ; Times: 5
+	Query: "Petromyzon marinus" ; Times: 2
+	Query: "Mastacembelus mastacembelus" ; Times: 4
+	Query: "Mallotus villosus" ; Times: 5
+	Query: "Merluccius productus" ; Times: 6
+	Query: "Engraulis japonicus" ; Times: 4
+	Query: "Cottus gobio" ; Times: 10
+	Query: "Radulinus asprellus" ; Times: 5
+	Query: "Scomberomorus maculatus" ; Times: 5
+	Query: "Anguilla australis" ; Times: 6
+	Query: "Alburnoides bipunctatus" ; Times: 7
+	Query: "Clarias fuscus" ; Times: 10
+	Query: "Silurus glanis" ; Times: 2
+	Query: "Anarhichas lupus" ; Times: 4
+	Query: "Clupea pallasii" ; Times: 5
+	Query: "Salvelinus alpinus" ; Times: 5
+	Query: "Sprattus sprattus" ; Times: 5
+	Query: "Trachurus japonicus" ; Times: 5
+	Query: "Taurulus bubalis" ; Times: 5
+	Query: "Cottunculus microps" ; Times: 3
+	Query: "Osmerus eperlanus" ; Times: 5
+	Query: "Triacanthus biaculeatus" ; Times: 2
+	Query: "Paratilapia polleni" ; Times: 3
+	Query: "cobitis taenia" ; Times: 1
+	Query: "Spirinchus thaleichthys" ; Times: 5
+	Query: "Salvelinus malma" ; Times: 5
+	Query: "Takifugu xanthopterus" ; Times: 5
+	Query: "Pholis gunnellus" ; Times: 5
+	Query: "Thymallus thymallus" ; Times: 7
+	Query: "Limanda limanda" ; Times: 5
+	Query: "Gadus morhua" ; Times: 5
+	Query: "Myoxocephalus quadricornis" ; Times: 8
+	Query: "Hirundichthys rondeletii" ; Times: 5
+	Query: "Xenentodon cancila" ; Times: 5
+	Query: "Sciaena umbra" ; Times: 6
+	Query: "Synbranchus marmoratus" ; Times: 11
+	Query: "Cichla ocellaris" ; Times: 3
+	Query: "Phoxinus phoxinus" ; Times: 13
+	Query: "Labeo coubie" ; Times: 4
+	Query: "Clupea harengus" ; Times: 5
+	Query: "Heteropneustes fossilis" ; Times: 15
+	Query: "Takifugu rubripes" ; Times: 5
+	Query: "Eleotris picta" ; Times: 5
+	Query: "Anodontostoma chacunda" ; Times: 4
+	Query: "lateolabrax japonicus" ; Times: 1
+	Query: "Trichogaster leerii" ; Times: 5
+	Query: "Callichthys callichthys" ; Times: 2
+	Query: "Cheilopogon heterurus" ; Times: 5
+	Query: "Hyperopisus bebe" ; Times: 9
+	Query: "Microcottus sellaris" ; Times: 5
+	Query: "Trachurus trachurus" ; Times: 5
+	Query: "Squaliobarbus curriculus" ; Times: 7
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 5
+	Query: "Capreolus capreolus" ; Times: 2
+	Query: "Sorubim lima" ; Times: 5
+	Query: "salmo salar" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 14
+	Query: "Coregonus lavaretus" ; Times: 5
+	Query: "Pleuronectes platessa" ; Times: 5
+	Query: "Hirundichthys speculiger" ; Times: 5
+	Query: "Loricaria cataphracta" ; Times: 3
+	Query: "Chelon labrosus" ; Times: 3
+	Query: "Chondrostoma nasus" ; Times: 7
+	Query: "Perca fluviatilis" ; Times: 12
+	Query: "Thaleichthys pacificus" ; Times: 5
+	Query: "Apeltes quadracus" ; Times: 7
+	Query: "Polypterus bichir" ; Times: 4
+	Query: "Blicca bjoerkna" ; Times: 16
+	Query: "Merluccius merluccius" ; Times: 6
+	Query: "Zoarces viviparus" ; Times: 2
+	Query: "Cottus poecilopus" ; Times: 8
+	Query: "Psettichthys melanostictus" ; Times: 5
+	Query: "Niphon spinosus" ; Times: 7
+	Query: "Coregonus albula" ; Times: 5
+	Query: "Harpadon nehereus" ; Times: 3
+	Query: "Carassius carassius" ; Times: 12
+	Query: "Salmo trutta" ; Times: 7
+	Query: "Pangasius pangasius" ; Times: 9
+	Query: "Ketengus typus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1171 download events in this period)
+Total number of records downloaded: 9772
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Lithuania ; Times: 1
+	Country: Germany ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-08 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "squatina squatina" ; Times: 1
+	Query: "Lampanyctus macdonaldi" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "institutioncode:NHMO" ; Times: 1
+
+
+End of report.
