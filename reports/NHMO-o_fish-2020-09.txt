@@ -1,0 +1,229 @@
+Report for Institution Code NHMO, Resource o_fish
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 187
+Number of records retrieved in searches: 1366
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 1
+	Country: France ; Times: 184
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-15 ; Times: 3
+	Date: 2020-09-16 ; Times: 43
+	Date: 2020-09-17 ; Times: 62
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-27 ; Times: 2
+	Date: 2020-09-18 ; Times: 41
+	Date: 2020-09-09 ; Times: 7
+	Date: 2020-09-08 ; Times: 5
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-21 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "Ctenolabrus rupestris" ; Times: 1
+	Query: "Syngnathus acus" ; Times: 1
+	Query: "Lampetra fluviatilis" ; Times: 1
+	Query: "Ophisurus serpens" ; Times: 1
+	Query: "Gobius auratus" ; Times: 1
+	Query: "Acipenser stellatus" ; Times: 1
+	Query: "Hygophum benoiti" ; Times: 1
+	Query: "Petromyzon marinus" ; Times: 1
+	Query: "Gnathophis mystax" ; Times: 1
+	Query: "scientificname:Scomber japonicus" ; Times: 1
+	Query: "Lipophrys pholis" ; Times: 1
+	Query: "Clinitrachus argentatus" ; Times: 1
+	Query: "Gobius paganellus" ; Times: 1
+	Query: "Hymenocephalus italicus" ; Times: 1
+	Query: "Synchiropus phaeton" ; Times: 1
+	Query: "Crenidens crenidens" ; Times: 1
+	Query: "Gadiculus argenteus" ; Times: 1
+	Query: "Gymnammodytes semisquamatus" ; Times: 1
+	Query: "Mullus surmuletus" ; Times: 5
+	Query: "Micromesistius poutassou" ; Times: 1
+	Query: "Platax teira" ; Times: 1
+	Query: "Polyprion americanus" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "Symbolophorus veranyi" ; Times: 1
+	Query: "Lophius budegassa" ; Times: 1
+	Query: "Aphanius fasciatus" ; Times: 1
+	Query: "Gobius bucchichi" ; Times: 1
+	Query: "Notoscopelus elongatus" ; Times: 1
+	Query: "Atherina boyeri" ; Times: 1
+	Query: "Bothus podas" ; Times: 1
+	Query: "Arnoglossus kessleri" ; Times: 1
+	Query: "Oblada melanura" ; Times: 1
+	Query: "Lepidion lepidion" ; Times: 1
+	Query: "Dentex macrophthalmus" ; Times: 1
+	Query: "Aphanius iberus" ; Times: 1
+	Query: "Monochirus hispidus" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Trachinotus ovatus" ; Times: 1
+	Query: "Syngnathus abaster" ; Times: 1
+	Query: "Gonostoma denudatum" ; Times: 1
+	Query: "Epigonus telescopus" ; Times: 1
+	Query: "Myxine glutinosa" ; Times: 1
+	Query: "Diplodus annularis" ; Times: 1
+	Query: "Naucrates ductor" ; Times: 1
+	Query: "Phycis phycis" ; Times: 1
+	Query: "Epinephelus aeneus" ; Times: 4
+	Query: "Geophagus surinamensis" ; Times: 1
+	Query: "Centrolophus niger" ; Times: 4
+	Query: "Coryphoblennius galerita" ; Times: 1
+	Query: "Alepocephalus rostratus" ; Times: 1
+	Query: "Diplecogaster bimaculata" ; Times: 1
+	Query: "Callionymus risso" ; Times: 1
+	Query: "Gadella maraldi" ; Times: 1
+	Query: "Saurida undosquamis" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "Entelurus  aequoreus" ; Times: 1
+	Query: "Exocoetus obtusirostris" ; Times: 1
+	Query: "Regalecus glesne" ; Times: 1
+	Query: "Scorpaena scrofa" ; Times: 1
+	Query: "Coryphaenoides guentheri" ; Times: 1
+	Query: "Deltentosteus quadrimaculatus" ; Times: 1
+	Query: "Trachinus radiatus" ; Times: 1
+	Query: "Scorpaena maderensis" ; Times: 1
+	Query: "Sparus aurata" ; Times: 1
+	Query: "Solea solea" ; Times: 3
+	Query: "Coryphaena equiselis" ; Times: 1
+	Query: "Mustelus mustelus" ; Times: 1
+	Query: "Sphoeroides pachygaster" ; Times: 1
+	Query: "Apogon imberbis" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "Centrolabrus exoletus" ; Times: 1
+	Query: "Buenia jeffreysii" ; Times: 1
+	Query: "Sprattus sprattus" ; Times: 2
+	Query: "Nettastoma melanurum" ; Times: 1
+	Query: "Stromateus fiatola" ; Times: 1
+	Query: "Diplodus puntazzo" ; Times: 1
+	Query: "Taurulus bubalis" ; Times: 1
+	Query: "Lagocephalus spadiceus" ; Times: 1
+	Query: "Cyclopterus lumpus" ; Times: 1
+	Query: "Plectorhinchus mediterraneus" ; Times: 1
+	Query: "Diodon hystrix" ; Times: 1
+	Query: "Nezumia aequalis" ; Times: 1
+	Query: "Serranus atricauda" ; Times: 1
+	Query: "Chlorophthalmus agassizi" ; Times: 1
+	Query: "Gobius cruentatus" ; Times: 1
+	Query: "Carapus acus" ; Times: 1
+	Query: "Serranus scriba" ; Times: 1
+	Query: "Xyrichtys novacula" ; Times: 1
+	Query: "Symphodus rostratus" ; Times: 1
+	Query: "Ichthyococcus ovatus" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Acantholabrus palloni" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 1
+	Query: "Crystallogobius linearis" ; Times: 1
+	Query: "Pomatoschistus norvegicus" ; Times: 1
+	Query: "Benthosema glaciale" ; Times: 1
+	Query: "Labrus viridis" ; Times: 1
+	Query: "Dalatias licha" ; Times: 1
+	Query: "mappable:1 scientificname:Mullus surmuletus" ; Times: 2
+	Query: "Sciaena umbra" ; Times: 1
+	Query: "medd" ; Times: 1
+	Query: "Echiodon dentatus" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Syngnathus rostellatus" ; Times: 1
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "Anthias anthias" ; Times: 1
+	Query: "Gobius geniporus" ; Times: 1
+	Query: "Dentex maroccanus" ; Times: 1
+	Query: "Paralepis coregonoides" ; Times: 1
+	Query: "Sardinella aurita" ; Times: 1
+	Query: "Mora moro" ; Times: 1
+	Query: "Lampanyctus crocodilus" ; Times: 1
+	Query: "Sillago sihama" ; Times: 1
+	Query: "Platycephalus indicus" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "Synodus saurus" ; Times: 1
+	Query: "Sparisoma cretense" ; Times: 1
+	Query: "Lesueurigobius suerii" ; Times: 1
+	Query: "Remora brachyptera" ; Times: 1
+	Query: "Symphurus nigrescens" ; Times: 1
+	Query: "Trachipterus trachypterus" ; Times: 1
+	Query: "Hoplostethus mediterraneus" ; Times: 1
+	Query: "Zosterisessor ophiocephalus" ; Times: 1
+	Query: "Galeoides decadactylus" ; Times: 1
+	Query: "Nerophis ophidion" ; Times: 1
+	Query: "Scyliorhinus canicula" ; Times: 1
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "Schedophilus medusophagus" ; Times: 1
+	Query: "Peristedion cataphractum" ; Times: 1
+	Query: "Pomatoschistus marmoratus" ; Times: 1
+	Query: "Helicolenus dactylopterus" ; Times: 1
+	Query: "Plotosus lineatus" ; Times: 1
+	Query: "Cheilopogon heterurus" ; Times: 1
+	Query: "Coris julis" ; Times: 1
+	Query: "Trygonorhina" ; Times: 1
+	Query: "Halobatrachus didactylus" ; Times: 1
+	Query: "Uranoscopus scaber" ; Times: 1
+	Query: "Hyporhamphus picarti" ; Times: 1
+	Query: "Opeatogenys gracilis" ; Times: 1
+	Query: "Serranus hepatus" ; Times: 1
+	Query: "Pomatoschistus pictus" ; Times: 1
+	Query: "Squatina oculata" ; Times: 1
+	Query: "Hippocampus guttulatus" ; Times: 1
+	Query: "Liza saliens" ; Times: 1
+	Query: "Labrus merula" ; Times: 1
+	Query: "Lithognathus mormyrus" ; Times: 1
+	Query: "Sarpa salpa" ; Times: 1
+	Query: "Muraena helena" ; Times: 1
+	Query: "Lepadogaster lepadogaster" ; Times: 1
+	Query: "Pagrus pagrus" ; Times: 1
+	Query: "Diplodus vulgaris" ; Times: 1
+	Query: "Pomatoschistus microps" ; Times: 1
+	Query: "Myctophum punctatum" ; Times: 1
+	Query: "Syngnathus typhle" ; Times: 1
+	Query: "Acipenser sturio" ; Times: 1
+	Query: "Xiphias gladius" ; Times: 1
+	Query: "Orcynopsis unicolor" ; Times: 1
+	Query: "Gymnammodytes cicerelus" ; Times: 1
+	Query: "Merluccius merluccius" ; Times: 1
+	Query: "Ophichthus rufus" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 1
+	Query: "Gobius fallax" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "Pagrus major" ; Times: 1
+	Query: "Gobius ater" ; Times: 1
+	Query: "Spicara flexuosa" ; Times: 1
+	Query: "Molva dypterygia" ; Times: 1
+	Query: "Etmopterus spinax" ; Times: 1
+	Query: "Myliobatis aquila" ; Times: 1
+	Query: "Parablennius pilicornis" ; Times: 1
+	Query: "Microchirus ocellatus" ; Times: 1
+	Query: "Atherina hepsetus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 976 download events in this period)
+Total number of records downloaded: 110
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Panama ; Times: 3
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Geophagus surinamensis" ; Times: 1
+	Query: "Gambusia" ; Times: 1
+	Query: "country:&#34;bermuda&#34;" ; Times: 1
+	Query: "curacao" ; Times: 2
+
+
+End of report.
