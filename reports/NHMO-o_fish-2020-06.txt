@@ -1,0 +1,124 @@
+Report for Institution Code NHMO, Resource o_fish
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 369
+Number of records retrieved in searches: 6017
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: United Kingdom ; Times: 337
+	Country: Mexico ; Times: 1
+	Country: Peru ; Times: 6
+	Country: France ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-26 ; Times: 4
+	Date: 2020-06-09 ; Times: 9
+	Date: 2020-06-06 ; Times: 3
+	Date: 2020-06-07 ; Times: 5
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-10 ; Times: 126
+	Date: 2020-06-15 ; Times: 44
+	Date: 2020-06-29 ; Times: 3
+	Date: 2020-06-11 ; Times: 126
+	Date: 2020-06-17 ; Times: 41
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 9
+	Query: "Leuciscus leuciscus" ; Times: 6
+	Query: "Pachychilon pictum" ; Times: 6
+	Query: "Salmo trutta" ; Times: 9
+	Query: "Batrachocottus baicalensis" ; Times: 6
+	Query: "lycodes vahlii" ; Times: 2
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "Siganus argenteus" ; Times: 6
+	Query: "Esox lucius" ; Times: 8
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "raja miraletus" ; Times: 2
+	Query: "Cheilopogon heterurus" ; Times: 6
+	Query: "Squaliobarbus curriculus" ; Times: 6
+	Query: "Trichomycterus dispar" ; Times: 1
+	Query: "rhombosolea tapirina" ; Times: 1
+	Query: "oblada melanura" ; Times: 1
+	Query: "paraplotosus albilabris" ; Times: 1
+	Query: "lampetra planeri" ; Times: 1
+	Query: "Tridens melanops" ; Times: 1
+	Query: "Stenodus leucichthys" ; Times: 6
+	Query: "Geophagus surinamensis" ; Times: 1
+	Query: "Notopterus notopterus" ; Times: 6
+	Query: "Hirundichthys rondeletii" ; Times: 6
+	Query: "Xenentodon cancila" ; Times: 12
+	Query: "Hirundichthys speculiger" ; Times: 6
+	Query: "Cottus aleuticus" ; Times: 6
+	Query: "ophisurus serpens" ; Times: 1
+	Query: "Chelon labrosus" ; Times: 6
+	Query: "Coregonus albula" ; Times: 6
+	Query: "Atherina hepsetus" ; Times: 6
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Lampetra fluviatilis" ; Times: 3
+	Query: "oxyconger leptognathus" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 9
+	Query: "Cottus gobio" ; Times: 6
+	Query: "Butis butis" ; Times: 6
+	Query: "Pomatoschistus microps" ; Times: 6
+	Query: "myliobatis aquila" ; Times: 1
+	Query: "Scomberomorus maculatus" ; Times: 6
+	Query: "lipophrys pholis" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 11
+	Query: "Crenicichla johanna" ; Times: 1
+	Query: "Heteropneustes fossilis" ; Times: 6
+	Query: "Takifugu rubripes" ; Times: 6
+	Query: "Eleotris picta" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Pomatoschistus minutus" ; Times: 6
+	Query: "Cottus poecilopus" ; Times: 6
+	Query: "Pangasius pangasius" ; Times: 6
+	Query: "Trichogaster leerii" ; Times: 6
+	Query: "spicara flexuosa" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 6
+	Query: "Sillago sihama" ; Times: 6
+	Query: "Harpadon nehereus" ; Times: 6
+	Query: "Takifugu porphyreus" ; Times: 6
+	Query: "Carassius carassius" ; Times: 6
+	Query: "Trypauchen vagina" ; Times: 6
+	Query: "Pungitius pungitius" ; Times: 9
+	Query: "Setipinna tenuifilis" ; Times: 6
+	Query: "Scardinius erythrophthalmus" ; Times: 12
+	Query: "Coregonus lavaretus" ; Times: 6
+	Query: "Abramis brama" ; Times: 6
+	Query: "Cheilopogon exsiliens" ; Times: 6
+	Query: "sicyases sanguineus" ; Times: 1
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "Chaetobranchus semifasciatus" ; Times: 1
+	Query: "Ketengus typus" ; Times: 6
+	Query: "Takifugu oblongus" ; Times: 9
+	Query: "Lates calcarifer" ; Times: 6
+	Query: "Salvelinus malma" ; Times: 6
+	Query: "niphon spinosus" ; Times: 3
+	Query: "Takifugu xanthopterus" ; Times: 6
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 474 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:kentucky" ; Times: 1
+
+
+End of report.
