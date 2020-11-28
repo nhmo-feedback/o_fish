@@ -1,0 +1,172 @@
+Report for Institution Code NHMO, Resource o_fish
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 185
+Number of records retrieved in searches: 1981
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 21
+	Country: United States ; Times: 26
+	Country: Albania ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 53
+	Country: United Kingdom ; Times: 74
+	Country: Germany ; Times: 5
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-19 ; Times: 4
+	Date: 2020-10-08 ; Times: 11
+	Date: 2020-10-12 ; Times: 17
+	Date: 2020-10-13 ; Times: 77
+	Date: 2020-10-10 ; Times: 3
+	Date: 2020-10-30 ; Times: 5
+	Date: 2020-10-17 ; Times: 7
+	Date: 2020-10-15 ; Times: 7
+	Date: 2020-10-20 ; Times: 9
+	Date: 2020-10-23 ; Times: 4
+	Date: 2020-10-22 ; Times: 2
+	Date: 2020-10-21 ; Times: 5
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-27 ; Times: 4
+	Date: 2020-10-26 ; Times: 1
+	Date: 2020-10-24 ; Times: 6
+	Date: 2020-10-16 ; Times: 1
+	Date: 2020-10-28 ; Times: 5
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-07 ; Times: 5
+	Date: 2020-10-06 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 1
+	Query: "Batrachocottus baicalensis" ; Times: 3
+	Query: "mappable:1 scientificname:Prionace glauca" ; Times: 3
+	Query: "scientificname:Scomberesox saurus saurus" ; Times: 1
+	Query: "Malacocottus zonurus" ; Times: 1
+	Query: "Polyprion americanus" ; Times: 1
+	Query: "Auxis rochei rochei mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Trachinotus ovatus" ; Times: 1
+	Query: "mappable:1 scientificname:Clupea harengus" ; Times: 1
+	Query: "Lepidotrigla guentheri" ; Times: 1
+	Query: "Apodichthys flavidus" ; Times: 1
+	Query: "genus:Prionotus" ; Times: 2
+	Query: "Myoxocephalus scorpius" ; Times: 1
+	Query: "mappable:1 scientificname:Nesiarchus nasutus" ; Times: 5
+	Query: "mappable:1 scientificname:Auxis rochei rochei rochei" ; Times: 1
+	Query: "Psenopsis anomala" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 4
+	Query: "Alectis ciliaris" ; Times: 1
+	Query: "Hyporhamphus unifasciatus" ; Times: 1
+	Query: "Aetoplatea zonura" ; Times: 1
+	Query: "Anarhichas minor" ; Times: 1
+	Query: "Rhombosolea tapirina" ; Times: 1
+	Query: "mappable:1 scientificname:Gadus morhua" ; Times: 2
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Gobio gobio" ; Times: 1
+	Query: "Abramis brama" ; Times: 4
+	Query: "Prionace glauca mappable:1" ; Times: 1
+	Query: "scientificname:Liza saliens" ; Times: 1
+	Query: "Raja undulata" ; Times: 1
+	Query: "family:Triglidae" ; Times: 22
+	Query: "Apodichthys fucorum" ; Times: 1
+	Query: "Atherina boyeri" ; Times: 1
+	Query: "Barbatula barbatula" ; Times: 2
+	Query: "Naucrates ductor" ; Times: 1
+	Query: "scientificname:Vinciguerria attenuata" ; Times: 1
+	Query: "Eutrigla gurnardus" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "Centrolophus niger" ; Times: 1
+	Query: "Lepidion eques" ; Times: 1
+	Query: "Chimaera phantasma" ; Times: 1
+	Query: "Sardinops melanostictus" ; Times: 1
+	Query: "Pagellus bogaraveo" ; Times: 1
+	Query: "Engraulis japonicus" ; Times: 2
+	Query: "Radulinus asprellus" ; Times: 2
+	Query: "Scomberomorus maculatus" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "Alburnoides bipunctatus" ; Times: 1
+	Query: "scientificname:Hyporhamphus picarti" ; Times: 1
+	Query: "Megalocottus platycephalus" ; Times: 1
+	Query: "Clupea pallasii" ; Times: 1
+	Query: "Sprattus sprattus" ; Times: 2
+	Query: "Trachurus japonicus" ; Times: 1
+	Query: "Galaxias truttaceus" ; Times: 1
+	Query: "Pagellus erythrinus" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 2
+	Query: "atherina boyeri" ; Times: 1
+	Query: "mappable:1 scientificname:Mola mola" ; Times: 2
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Scomberomorus sierra" ; Times: 1
+	Query: "scientificname:Valenciennellus tripunctulatus" ; Times: 1
+	Query: "Myoxocephalus quadricornis" ; Times: 1
+	Query: "scientificname:Atherina hepsetus" ; Times: 1
+	Query: "mappable:1 scientificname:Mullus surmuletus" ; Times: 2
+	Query: "scientificname:Notoscopelus elongatus" ; Times: 1
+	Query: "Carangoides equula" ; Times: 1
+	Query: "scientificname:Gonostoma denudatum" ; Times: 1
+	Query: "scientificname:Stomias boa boa" ; Times: 1
+	Query: "mappable:1 scientificname:Sarda sarda" ; Times: 3
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 2
+	Query: "Peristedion miniatum" ; Times: 1
+	Query: "Clupea harengus" ; Times: 3
+	Query: "mappable:1 scientificname:Xiphias gladius" ; Times: 4
+	Query: "Acipenser ruthenus" ; Times: 3
+	Query: "mappable:1 scientificname:Trichiurus lepturus" ; Times: 3
+	Query: "scientificname:Lampanyctus crocodilus" ; Times: 1
+	Query: "Gadus morhua" ; Times: 1
+	Query: "Dentex tumifrons" ; Times: 1
+	Query: "Hyperoglyphe antarctica" ; Times: 1
+	Query: "scientificname:Vinciguerria poweriae" ; Times: 1
+	Query: "scientificname:Barbatula barbatula" ; Times: 3
+	Query: "Cetengraulis edentulus" ; Times: 1
+	Query: "mappable:1 scientificname:Auxis rochei rochei" ; Times: 2
+	Query: "Alosa fallax" ; Times: 2
+	Query: "Chelidonichthys kumu" ; Times: 1
+	Query: "scientificname:Auxis rochei rochei" ; Times: 1
+	Query: "Hyperopisus bebe" ; Times: 1
+	Query: "Microcottus sellaris" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "Galaxias olidus" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "Coregonus lavaretus" ; Times: 1
+	Query: "Pelecus cultratus" ; Times: 1
+	Query: "Acipenser stellatus" ; Times: 2
+	Query: "Sparus aurata" ; Times: 4
+	Query: "Chondrostoma nasus" ; Times: 1
+	Query: "scientificname:Alopias vulpinus" ; Times: 2
+	Query: "Myliobatis aquila" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Pleuronectes platessa" ; Times: 5
+	Query: "Engraulis encrasicolus" ; Times: 3
+	Query: "Auxis rochei" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 5
+	Query: "Niphon spinosus" ; Times: 1
+	Query: "Carassius carassius" ; Times: 1
+	Query: "Pagrus major" ; Times: 1
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "Parablennius pilicornis" ; Times: 1
+	Query: "Nesiarchus nasutus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1521 download events in this period)
+Total number of records downloaded: 63
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Triglidae" ; Times: 1
+
+
+End of report.
