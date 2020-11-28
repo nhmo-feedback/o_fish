@@ -1,0 +1,90 @@
+Report for Institution Code NHMO, Resource o_fish
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 1953
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: France ; Times: 51
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-06 ; Times: 8
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-07 ; Times: 22
+	Date: 2020-08-19 ; Times: 20
+	Date: 2020-08-21 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Scyliorhinus canicula" ; Times: 1
+	Query: "Leuciscus leuciscus" ; Times: 1
+	Query: "Limanda limanda" ; Times: 1
+	Query: "Spicara smaris" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "Gadus morhua" ; Times: 2
+	Query: "Melanogrammus aeglefinus" ; Times: 2
+	Query: "Eutrigla gurnardus" ; Times: 2
+	Query: "Merlangius merlangus" ; Times: 3
+	Query: "Barbatula barbatula" ; Times: 1
+	Query: "Pomatomus saltator" ; Times: 1
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "Pleuronectes platessa" ; Times: 2
+	Query: "Ammodytes marinus" ; Times: 2
+	Query: "Trisopterus esmarkii" ; Times: 2
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Solea solea" ; Times: 2
+	Query: "Micromesistius poutassou" ; Times: 1
+	Query: "Apeltes quadracus" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 5
+	Query: "Carapus dubius" ; Times: 1
+	Query: "Acipenser ruthenus" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "Merluccius merluccius" ; Times: 1
+	Query: "Pollachius virens" ; Times: 2
+	Query: "Lophius budegassa" ; Times: 1
+	Query: "Spicara maena" ; Times: 1
+	Query: "Mullus barbatus" ; Times: 2
+	Query: "Sprattus sprattus" ; Times: 4
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 4
+	Query: "nerophis" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "Scomber scombrus" ; Times: 3
+	Query: "Pungitius pungitius" ; Times: 1
+	Query: "Ammodytes tobianus" ; Times: 2
+	Query: "Hyperopisus bebe" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 756 download events in this period)
+Total number of records downloaded: 102
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Periophthalmus" ; Times: 1
+	Query: "gadus morhua" ; Times: 1
+
+
+End of report.
