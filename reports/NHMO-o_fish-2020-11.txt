@@ -1,0 +1,208 @@
+Report for Institution Code NHMO, Resource o_fish
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 259
+Number of records retrieved in searches: 3423
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: United Kingdom ; Times: 150
+	Country: Venezuela ; Times: 2
+	Country: Poland ; Times: 2
+	Country: France ; Times: 86
+	Country: United States ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Norway ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-22 ; Times: 5
+	Date: 2020-11-23 ; Times: 14
+	Date: 2020-11-24 ; Times: 21
+	Date: 2020-11-18 ; Times: 2
+	Date: 2020-11-08 ; Times: 1
+	Date: 2020-11-27 ; Times: 7
+	Date: 2020-11-06 ; Times: 6
+	Date: 2020-11-16 ; Times: 3
+	Date: 2020-11-02 ; Times: 130
+	Date: 2020-11-01 ; Times: 1
+	Date: 2020-11-15 ; Times: 14
+	Date: 2020-11-26 ; Times: 24
+	Date: 2020-11-30 ; Times: 15
+	Date: 2020-11-25 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Ctenolabrus rupestris" ; Times: 1
+	Query: "Salmo salar" ; Times: 5
+	Query: "Hirundichthys speculiger" ; Times: 1
+	Query: "Pachychilon pictum" ; Times: 2
+	Query: "Salmo trutta" ; Times: 2
+	Query: "Apodichthys flavidus" ; Times: 1
+	Query: "Lutjanus guttatus" ; Times: 1
+	Query: "Lampetra fluviatilis" ; Times: 2
+	Query: "Siganus argenteus" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "mappable:1 scientificname:Pleuronectes platessa" ; Times: 2
+	Query: "Syngnathus typhle" ; Times: 2
+	Query: "Petromyzon marinus" ; Times: 1
+	Query: "scientificname:Alosa alosa" ; Times: 25
+	Query: "Lutjanus vitta" ; Times: 1
+	Query: "Batrachocottus baicalensis" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Rhinobatos schlegelii" ; Times: 2
+	Query: "Cottus aleuticus" ; Times: 1
+	Query: "Megalops cyprinoides" ; Times: 2
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "Crenidens crenidens" ; Times: 1
+	Query: "Gadiculus argenteus" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 3
+	Query: "Pelecus cultratus" ; Times: 1
+	Query: "Platax teira" ; Times: 2
+	Query: "Gerres filamentosus" ; Times: 2
+	Query: "Cobitis taenia" ; Times: 8
+	Query: "Aphanius fasciatus" ; Times: 1
+	Query: "Lepidotrigla guentheri" ; Times: 1
+	Query: "Caranx bucculentus" ; Times: 1
+	Query: "mappable:1 scientificname:Gadus morhua" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 4
+	Query: "Gobio gobio" ; Times: 4
+	Query: "Lumpenus lampretaeformis" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "Cheilopogon exsiliens" ; Times: 1
+	Query: "Arnoglossus kessleri" ; Times: 1
+	Query: "Sphyraena obtusata" ; Times: 1
+	Query: "genus:Ditrema" ; Times: 1
+	Query: "Silurus glanis" ; Times: 5
+	Query: "scientificname:Gobius paganellus" ; Times: 1
+	Query: "Aphanius iberus" ; Times: 2
+	Query: "class:actinopterygii institutioncode:NHMO" ; Times: 1
+	Query: "Apodichthys fucorum" ; Times: 1
+	Query: "Leuciscus leuciscus" ; Times: 3
+	Query: "Trachinotus ovatus" ; Times: 1
+	Query: "scientificname:Gnathophis mystax" ; Times: 1
+	Query: "Epigonus telescopus" ; Times: 1
+	Query: "Barbatula barbatula" ; Times: 2
+	Query: "Eutrigla gurnardus" ; Times: 1
+	Query: "Acanthurus achilles" ; Times: 1
+	Query: "Epinephelus aeneus" ; Times: 3
+	Query: "Leptoclinus maculatus" ; Times: 1
+	Query: "Lactoria cornuta" ; Times: 1
+	Query: "Alepocephalus rostratus" ; Times: 6
+	Query: "Monodactylus argenteus" ; Times: 5
+	Query: "Callionymus risso" ; Times: 2
+	Query: "Gadella maraldi" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 2
+	Query: "Anguilla australis" ; Times: 1
+	Query: "Oxylebius pictus" ; Times: 1
+	Query: "Pagellus bogaraveo" ; Times: 1
+	Query: "Coryphaenoides guentheri" ; Times: 1
+	Query: "Deltentosteus quadrimaculatus" ; Times: 1
+	Query: "Cottus gobio" ; Times: 1
+	Query: "scientificname:Gobius cruentatus" ; Times: 1
+	Query: "mappable:1 scientificname:Pollachius virens" ; Times: 1
+	Query: "scientificname:Alosa fallax" ; Times: 1
+	Query: "Diplodus vulgaris" ; Times: 1
+	Query: "Phtheirichthys lineatus" ; Times: 2
+	Query: "Cyclopterus lumpus" ; Times: 1
+	Query: "Apogon imberbis" ; Times: 1
+	Query: "Buenia jeffreysii" ; Times: 2
+	Query: "Priacanthus tayenus" ; Times: 2
+	Query: "Trachurus japonicus" ; Times: 1
+	Query: "Diplodus puntazzo" ; Times: 1
+	Query: "Dentex macrophthalmus" ; Times: 1
+	Query: "Acanthopagrus latus" ; Times: 2
+	Query: "Diodon hystrix" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 2
+	Query: "Carapus acus" ; Times: 1
+	Query: "Lota lota" ; Times: 2
+	Query: "Symphodus rostratus" ; Times: 2
+	Query: "Coryphoblennius galerita" ; Times: 1
+	Query: "Thymallus thymallus" ; Times: 1
+	Query: "Scatophagus argus" ; Times: 2
+	Query: "scientificname:Halobatrachus didactylus" ; Times: 1
+	Query: "Acantholabrus palloni" ; Times: 2
+	Query: "Cetorhinus maximus" ; Times: 1
+	Query: "Crystallogobius linearis" ; Times: 1
+	Query: "Hirundichthys rondeletii" ; Times: 1
+	Query: "Dalatias licha" ; Times: 1
+	Query: "Terapon jarbua" ; Times: 4
+	Query: "scientificname:Argentina sphyraena" ; Times: 2
+	Query: "Echiodon dentatus" ; Times: 1
+	Query: "Cheilio inermis" ; Times: 2
+	Query: "Phoxinus phoxinus" ; Times: 2
+	Query: "Peristedion miniatum" ; Times: 1
+	Query: "Spinachia spinachia" ; Times: 3
+	Query: "Dentex maroccanus" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 2
+	Query: "Carassius carassius" ; Times: 1
+	Query: "scientificname:Gobius geniporus" ; Times: 1
+	Query: "Paranthias colonus" ; Times: 2
+	Query: "Sillago sihama" ; Times: 5
+	Query: "Platycephalus indicus" ; Times: 3
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "scientificname:Gymnammodytes semisquamatus" ; Times: 1
+	Query: "Bothus podas" ; Times: 1
+	Query: "Psettodes erumei" ; Times: 1
+	Query: "scientificname:Gobius bucchichi" ; Times: 1
+	Query: "Diplecogaster bimaculata" ; Times: 1
+	Query: "scientificname:Galeoides decadactylus" ; Times: 1
+	Query: "Carangoides malabaricus" ; Times: 1
+	Query: "Chelidonichthys kumu" ; Times: 1
+	Query: "Hyperopisus bebe" ; Times: 1
+	Query: "Scomberoides lysan" ; Times: 1
+	Query: "Anthias anthias" ; Times: 1
+	Query: "Cheilopogon heterurus" ; Times: 1
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 1
+	Query: "scientificname:Aphia minuta" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "Coris julis" ; Times: 1
+	Query: "class:Actinopterygii institutioncode:NHMO" ; Times: 2
+	Query: "Alectis ciliaris" ; Times: 1
+	Query: "Acipenser stellatus" ; Times: 5
+	Query: "Lagocephalus spadiceus" ; Times: 4
+	Query: "Chlorophthalmus agassizi" ; Times: 1
+	Query: "Liza saliens" ; Times: 1
+	Query: "Chondrostoma nasus" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 3
+	Query: "mappable:1 scientificname:Solea solea" ; Times: 2
+	Query: "Acipenser sturio" ; Times: 3
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 2
+	Query: "Niphon spinosus" ; Times: 3
+	Query: "Anguilla reinhardti" ; Times: 2
+	Query: "scientificname:Gobius fallax" ; Times: 1
+	Query: "Lamna nasus" ; Times: 1
+	Query: "ANCISTRUS TEMMINCKII" ; Times: 2
+	Query: "Entosphenus tridentatus" ; Times: 1
+	Query: "Etmopterus spinax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 842 download events in this period)
+Total number of records downloaded: 18
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Poland ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-23 ; Times: 1
+	Date: 2020-11-25 ; Times: 3
+	Date: 2020-11-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "GEOPHAGUS SURINAMENSIS" ; Times: 1
+	Query: "cope" ; Times: 1
+	Query: "Acipenser sturio" ; Times: 1
+	Query: "genus:Zaniolepis" ; Times: 1
+	Query: "Bison bison" ; Times: 1
+	Query: "ANCISTRUS TEMMINCKII" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+
+
+End of report.
